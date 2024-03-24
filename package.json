@@ -1,6 +1,6 @@
 {
-  "name": "code-with-hamza-cli-number-guessing-game",
-  "version": "1.0.2",
+  "name": "code_with_hamza-cli-number-guessing-game",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "type": "module",
